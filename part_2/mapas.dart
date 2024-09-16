@@ -32,8 +32,6 @@ void main () {
 
   //outra forma de atualizar chave valor é usando .update mas eu nem vo escrever pq to com preguiça
 
-  //resumindo o mapa no dart é o mesmo que objeto no javascript
-
   // mas agora provavelmente a parte mais importante do mapa é o forEach se liga =>
 
   mapa.forEach((chave, valor) => print(chave)); // retorna: chave, chave2
